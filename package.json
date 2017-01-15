@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-es3",
+  "version": "1.0.0",
+  "description": "eslint config for es3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumabook/eslint-config-es3.git"
+  },
+  "keywords": [
+    "eslint",
+    "es3"
+  ],
+  "author": "Hiroki Kumamoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumabook/eslint-config-es3/issues"
+  },
+  "homepage": "https://github.com/kumabook/eslint-config-es3#readme"
+}
